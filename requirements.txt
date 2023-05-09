@@ -44,7 +44,7 @@ joblib==0.13.2
 jsonschema==3.0.2
 jupyter-client==5.3.1
 jupyter-console==6.0.0
-jupyter-core==4.5.0
+jupyter-core==4.11.2
 lazy-object-proxy==1.4.1
 lxml==4.4.0
 macholib==1.11
