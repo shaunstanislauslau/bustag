@@ -29,7 +29,7 @@ docutils==0.15.2
 entrypoints==0.3
 fake-useragent==0.1.11
 gitdb==0.6.4
-GitPython==0.3.6
+GitPython==3.1.30
 gunicorn==19.9.0
 idna==2.8
 imagesize==1.1.0
